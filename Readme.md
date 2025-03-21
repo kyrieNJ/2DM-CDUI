@@ -15,7 +15,7 @@ Enhancing Depression Detection with Cognitive Distortion and User-Level Informat
 * jieba 0.42.1
 
 
-## Multi-granularity Cognitive Distortion Learning Method
+## Multi-granularity cognitive distortion learning method
 
 * Process the data in C2D2 into the data samples needed for contrastive learning, run the code [processdata4cd.py](./mcdlm/processdata4cd.py).
 * Train by cognitive distortion type prediction task, run the code [train4cd.py](./mcdlm/train4cd.py).
