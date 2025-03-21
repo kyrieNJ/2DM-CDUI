@@ -1,4 +1,4 @@
-# SM-HK
+# 2DM-CDUI
 Code for our paper:
 Enhancing Depression Detection with Cognitive Distortion and User-Level Information
 
