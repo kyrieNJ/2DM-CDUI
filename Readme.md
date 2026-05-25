@@ -36,4 +36,12 @@ python ./train.py
 ## Citation
 
 If our work has been helpful to you, please mark references to our work in your research and thank you for your support.
-
+```bash
+@article{wan2026enhancing,
+  title={Enhancing Depression Detection with Cognitive Distortion and User-level Information},
+  author={Wan, Yujie and Dong, Zaiquan and Jiang, Baoxing and Li, Meiwen and Ju, Shenggen},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2026},
+  publisher={IEEE}
+}
+```
